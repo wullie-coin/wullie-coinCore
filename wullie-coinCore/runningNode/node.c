@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include "wullie-coinCore/nodeNetwork/deviceNetwork.c"
 
 /*main function. calles other functions and prints stuff to screen
  * if you are reading this then this is the file you want to compile*/
