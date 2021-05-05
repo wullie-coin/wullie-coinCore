@@ -1,1 +1,3 @@
+all dates in this file fallow day/month/year
 
+removed old code base and updated it with a new directory structure. 5/5/21 23:08
