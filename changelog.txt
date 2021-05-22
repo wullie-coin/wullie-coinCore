@@ -2,3 +2,4 @@ all dates in this file fallow day/month/year
 
 removed old code base and updated it with a new directory structure. 5/5/21 23:08
 added an include into node.c to import the code form deviceNetowrk.c 5/5/21 23:14
+added a chek if used has used a node on there computer before in wullie-coinCore/runningNode/node 22/5/21 11:21
